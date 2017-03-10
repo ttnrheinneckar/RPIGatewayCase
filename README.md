@@ -5,6 +5,7 @@ We have built two experimental LoRaWAN gateways based on the iC880A concentrator
 
 However we chose not to use a ready made case but design laser cut case.
 
+![Laser cut case](https://github.com/TheThingsNetwork-RheinNeckar/RPIGatewayCase/blob/master/ttn-gateway-case.jpeg)
 
 ## BOM
 
