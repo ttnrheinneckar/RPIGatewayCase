@@ -5,7 +5,10 @@ We have built two experimental LoRaWAN gateways based on the iC880A concentrator
 
 However we chose not to use a ready made case but design laser cut case.
 
+
 ## BOM
+
+### For the case
 
 * Sheet of 3mm acrylic glass
 * 24 M3X12 screws and corresponding nuts (to assemble the case)
@@ -13,16 +16,22 @@ However we chose not to use a ready made case but design laser cut case.
 * 4 M3 distance bolts (approx. 8mm female/male) with corresponding screws and nuts (to mount iC880A concentrator board)
 * 3 suction cups with M4X11 screw and corresponding nuts
 
+
+### Also needed for the gateway - please refer to the TTN Zurich description linked above
+
 * Raspberry PI 3
 * IC880a LoRaWAN concentrator board
 * Antenna pigtail
-* Antenne
+* Antenna
+* Jumper wired (female/female)
+
 
 ## Features
 
 * Uses suction cups to mount the gateway to a windows
 * Offers access to USB power connection and network port
 * Using tranparent or white acrylic glas 
+
 
 ## Shortcomings
 
